@@ -4,7 +4,9 @@
 F62 Flutter
 
 # Takım Üyeleri
+
 • _**Lara Karaahmet**_ - Product Owner
+
 •_**Erdem Hazar**_ - Developer
 
 # Uygulama Adı
