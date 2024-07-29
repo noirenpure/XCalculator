@@ -7,9 +7,10 @@ F62 Flutter
 
 • _**Lara Karaahmet**_ - Product Owner
 
-•_**Erdem Hazar**_ - Developer
+• _**Erdem Hazar**_ - Developer
 
 # Uygulama Adı
+
 X-Calculator
 
 # Uygulama Açıklaması
