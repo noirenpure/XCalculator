@@ -17,7 +17,7 @@ X-Calculator
 Basit bir şekilde tasarlanmış, basit işlemler için kullanabilen şık bir hesap makinesi.
 
 # Uygulama APK Bağlantısı
-[Drive](https://drive.google.com/file/d/1-QcaKjIbTU3b0_w1Yg2czJ1lJEcgS2Eo/view?usp=sharing) – APK Bağlantısı
+[Google Drive](https://drive.google.com/file/d/1-QcaKjIbTU3b0_w1Yg2czJ1lJEcgS2Eo/view?usp=sharing) – APK Bağlantısı
 
 
 
